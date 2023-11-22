@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+.content{
+    display: flex;
+    height: 55vh;
+}
+header, article, aside,nav, footer{
+    padding: 3rem;
+}
+header{
+    background-color:   lightblue;
+    margin-left: 200px;
+    margin-top: -750px;
+    height: 75px;
+    text-align: center;
+}
+nav{
+    height: 87vh;
+    background-color: pink;
+    width: 104px;
+    text-align: center;
+}
+article{
+    background-color: white;
+    margin-left: 200px;
+    width:50%;
+    text-align: center;
+}
+aside{
+    background-color: orange;
+    width: 50%;
+    text-align: center;
+}
+footer{
+    background-color:lightblue;
+    margin-left: 200px;
+    height: 75px;
+    text-align: center;
+}

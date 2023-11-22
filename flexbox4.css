@@ -1,0 +1,51 @@
+body{
+    background-color: maroon;
+}
+.content{
+    display: flex;
+    height: 57vh;
+    margin: 70px;
+}
+header, article, aside, footer{
+    padding: 3rem;
+}
+header{
+    background-color: lightblue;
+    padding: 2px;
+    margin-top: 25px;
+    text-align: center;
+}
+aside{
+    background-color: white;
+    width: 20%;
+    text-align: center;
+}
+article{
+    background-color:darkgray;
+    width: 65%;
+    margin-left: 50px;
+    text-align: center;
+}
+footer{
+    background-color: lightblue;
+    padding: 2px;
+    text-align: center;
+}
+.img1{
+    width: 250px;
+    height: 150px;
+    margin-right: 10px;
+}
+.img2{
+    width: 250px;
+    height: 150px;
+    margin-right: 10px;
+}
+.img3{
+    width: 250px;
+    height: 150px;
+    margin right: 10px;
+}
+article img{
+    margin-top: 150px;
+}
